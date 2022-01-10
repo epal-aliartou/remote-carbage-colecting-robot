@@ -172,7 +172,7 @@ Power adapter 5V - 2A
 
 ![κόστος και τα υλικά](images/remote-carbage-colecting-robot-kostos.jpg)
 και μπορεί να βρεθει στο παρακάτω αρχείο 	
-[Αναλυτικά Υλικά και κόστος Συστήματος](https://github.com/epal-aliartou/recycle-to-art/blob/main/docs/Recycle-to-Art-KOSTOS1.pdf)
+[Αναλυτικά Υλικά και κόστος Συστήματος](https://github.com/epal-aliartou/remote-carbage-colecting-robot/blob/main/docs/remote-carbage-colecting-robot-kostos.pdf)
 
 ---
 
