@@ -118,14 +118,59 @@ ___
 
 ---
 
-Το σύστημα που προτείνεται είναι αρθρωτό και μπορεί να υλοποιηθεί με κλιμακούμενες διαμορφώσεις. Το προϋπολογιζόμενο  **κόστος είναι **, στο προτεινόμενο  πλήρες σύστημα
+Το σύστημα που προτείνεται είναι αρθρωτό και μπορεί να υλοποιηθεί με κλιμακούμενες διαμορφώσεις. Το προϋπολογιζόμενο  **κόστος είναι 295**, στο προτεινόμενο  πλήρες σύστημα
 
 ΥΚΙΚΑ
+Ελεγκτής Βραχίονα - Arduino Uno 
+
+Σερβοκινητήρας - Servo Micro 1.8kg.cm Metal Gears (Feetech FS90MG)
+
+Ποτενσιόμετρο Potentiometer Linear 5Kohm - D6mm H9mm PCB
+
+Μπουτόν - Momentary Button - Panel Mount
+
+Ηχητικός Βομβητής - Buzzer 5V
+
+Bluetooth Module for Arduino - HC05
+
+Υλκά 3D Εκτύπωσης- 3D Printer Filament  - PLA 1.75mm  1kg
+
+Βηματικός Κινητήρας - Nema 17 Stepper Motor
+
+Οδηγός Κινητήρα - Dual Motor Driver Module L298N
+
+Διακόπτες -  Switch Assortment Kit 
+
+Ακροδεκτες Καλώδια - Terminal Assortment Kit
+ 
+Raspberry Pi 400 Personal Computer Kit
+
+Καλώδιο HDMI σε Micro HDMI 
+
+Ρομποτικό Ελεγκτής- Raspberry Pi Zero 2 W
+
+Καλώδιο HDMI to miniHDMI
+
+Κάρτα Μνήμης - microSDHC 16GB Class 10 
+
+Τροφοδοτικό 
+
+Σύνδεση με BreadBoard- T-Type GPIO Extension Board 
+
+Βίδες Παξιμάδια- Bolts & Nuts Assortment Kit M3, M4, M5 
+
+1 on/off switch
+
+1 DC power jack
+
+Power adapter 5V - 2A
+
+Ξυλεία 
 
 
 Αναλυτικότερα το κόστος και τα υλικά :
 
-![κόστος και τα υλικά](images/Recycle-to-Art-KOSTOS1_01.jpg)
+![κόστος και τα υλικά](images/remote-carbage-colecting-robot-kostos.jpg)
 και μπορεί να βρεθει στο παρακάτω αρχείο 	
 [Αναλυτικά Υλικά και κόστος Συστήματος](https://github.com/epal-aliartou/recycle-to-art/blob/main/docs/Recycle-to-Art-KOSTOS1.pdf)
 
